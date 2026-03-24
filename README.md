@@ -7,7 +7,9 @@ The environment was built from the ground up focusing on **fault tolerance, auto
 
 ## 🏗️ Architecture & Network Design
 
-![Infrastructure Diagram](./diagrams/network-architecture.png)
+![Infrastructure Diagram](./schemat1.png)
+![Infrastructure Diagram](./schemat2.png)
+![Infrastructure Diagram](./schemat3.png)
 
 ### Security & Network Topology
 * **Strict Segmentation:** Designed isolated logical networks separating external clients, the DMZ (Load Balancers & App Servers), and internal LANs (Databases & Storage).
