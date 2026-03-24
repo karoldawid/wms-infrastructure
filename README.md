@@ -7,9 +7,11 @@ The environment was built from the ground up focusing on **fault tolerance, auto
 
 ## 🏗️ Architecture & Network Design
 
-![Infrastructure Diagram](./schemat1.png)
-![Infrastructure Diagram](./schemat2.png)
-![Infrastructure Diagram](./schemat3.png)
+<p align="center">
+  <img src="./schemat1.png" width="32%" title="Phase 1: Basic Topology" />
+  <img src="./schemat2.png" width="32%" title="Phase 2: High Availability" />
+  <img src="./schemat3.png" width="32%" title="Phase 3: CI/CD & Storage" />
+</p>
 
 ### Security & Network Topology
 * **Strict Segmentation:** Designed isolated logical networks separating external clients, the DMZ (Load Balancers & App Servers), and internal LANs (Databases & Storage).
